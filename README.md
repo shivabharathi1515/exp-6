@@ -1,6 +1,8 @@
         Measurement of Capacitance by Schering Bridge  
 AIM:
 To Determine the Capacitance of an unknown Capacitor.
+APPARATUS REQUIRED:
+virtual labs
 THEORY:
  
 Let,
